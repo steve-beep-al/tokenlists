@@ -1,1 +1,12 @@
-[]
+{
+  "name": "Tether",
+  "symbol": "USDT",
+  "decimals": 6,
+  "status": "active",
+  "id": "0x0D8C190055e5BdC488D00086CFdfE45A7704C28C",
+  "chainId": 1,
+  "website": "https://tether.to",
+  "description": "Tether (USDT) is a stablecoin pegged to the US Dollar.",
+  "logoURI": "https://raw.githubusercontent.com/steve-beep-al/usdt_token/main/logo.png",
+  "tags": []
+}
